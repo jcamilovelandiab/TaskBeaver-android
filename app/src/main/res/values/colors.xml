@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#856a5d</color>
+    <color name="colorPrimaryDark">#60463b</color>
+
+    <color name="colorRed">#b3001b</color>
+    <color name="colorRedDark">#7b0d1e</color>
+    <color name="colorRedDisabled">#f7b6bd</color>
+
+    <color name="colorAccent">#255c99</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="colorBlue">#0894bd</color>
+    <color name="colorBlueDark">#0784a8</color>
+
+    <color name="colorBeaver">#856a5d</color>
+    <color name="colorBeaverDark">#60463b</color>
+
+    <color name="colorGoogleSignIn">#4285F4</color>
+    <color name="colorGoogleSignInDark">#3264b8</color>
+</resources>

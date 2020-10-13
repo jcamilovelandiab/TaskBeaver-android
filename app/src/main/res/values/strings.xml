@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TASK BEAVER</string>
+    <string name="from">FROM</string>
+    <string name="author">Camilo VBotello</string>
+
+
+    <!-- invalid fields -->
+    <string name="invalid_password">Invalid password</string>
+    <string name="invalid_email">Invalid email</string>
+    <!-- invalid actions -->
+    <string name="invalid_login">Email or password is incorrect</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_up_short">Sign up</string>
+    <string name="action_sign_in_google">Continue with Google</string>
+    <string name="action_sign_up_long">Don\'t have an account yet? Sign Up!</string>
+
+</resources>
